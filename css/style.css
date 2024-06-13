@@ -117,3 +117,57 @@
     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 43px;
 }
+
+.sectionOne-logo-text {
+  line-height: normal;
+  margin-top: 16px;
+}
+
+.content-sectionOne-cards {
+  display: flex;
+  width: 76%;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.card {
+  border: 1px solid greenyellow !important;
+  text-align: start;
+  width: 320px;
+  height: 200px;
+  margin-top: 16px;
+}
+
+.card-picture-img {
+  height: 100%;
+  width: 100%;
+}
+
+.card-img {
+  height: 187px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #FAFAFA;
+}
+
+.card-text-one {
+  margin-left: 22px;
+  font-size: 18px;
+  margin-top: 23px;
+}
+
+.card-text-two {
+  margin-left: 22px;
+  font-size: 25px;
+  line-height: 28px;
+}
+
+.card-button {
+  margin-left: 22px;
+  background-color: greenyellow;
+  color: white;
+  border: none;
+  width: 278px;
+  height: 60px;
+}
