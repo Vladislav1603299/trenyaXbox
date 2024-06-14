@@ -171,3 +171,21 @@
   width: 278px;
   height: 60px;
 }
+
+.content-sectionTwo {
+  position: relative;
+  height: 880px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(../img/backgroundTwo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 97px;
+}
+
+
+.content-sectionTwo-line {
+  text-align: center;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 43px;
+}
